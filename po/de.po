@@ -2276,7 +2276,7 @@ msgstr "_Bearbeiten"
 
 #: pluma/pluma-ui.h:50
 msgid "_View"
-msgstr "_Darstellung"
+msgstr "D_arstellung"
 
 #: pluma/pluma-ui.h:51
 msgid "_Search"
